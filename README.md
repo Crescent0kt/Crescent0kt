@@ -1,4 +1,4 @@
-# Hi there. 👋
+s# Hi there. 👋
 
 ### Skilled
 
@@ -9,3 +9,6 @@
 
 ### Other
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-squar&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squar&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-squar&logo=github&logoColor=white"> 
+
+### portfolio
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://ultra-dodo-86c.notion.site/681a84794ea240c5ae0fe4905d95bd42?pvs=4)
